@@ -7,3 +7,5 @@ Para rodar a imagem:
 ```docker
 docker run robertohd/codeeducation
 ```
+
+tamanho da imagem < 2mb
