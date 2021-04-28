@@ -1,0 +1,8 @@
+version: '1'
+
+services: 
+
+  codeeducation:
+    build: 
+      context: codeeducation
+    container_name: codeeducation
